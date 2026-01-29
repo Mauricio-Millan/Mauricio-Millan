@@ -10,7 +10,7 @@ Desarrollador backend junior con Java y Spring Boot, estudiante de ingeniería d
 
 ## 🚀 Sobre mí
 - 🎯 Busco roles backend donde pueda crecer con Java/Spring y prácticas de arquitectura limpia.
-- 📊 Interés en analítica y visualización para producto y negocio.
+- 📊 Interés en analítica y visualización de datos para producto y negocio.
 - 🤝 Disfruto colaborar con equipos ágiles y documentar lo que construyo.
 - 📚 Siempre aprendiendo: testing, buenas prácticas de código y herramientas de observabilidad.
 
