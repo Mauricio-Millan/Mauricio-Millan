@@ -41,7 +41,7 @@ Desarrollador backend junior con Java y Spring Boot, estudiante de ingeniería d
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
 ## 🏅 Certificaciones
-- Programa Alura (Fullstack/Backend): [Ver certificado](https://app.aluracursos.com/degree/certificate/fff7e849-dbe4-4ff3-96d6-5d152a7682b9?lang)
+- Programa Alura (Fullstack/Frontend): [Ver certificado](https://app.aluracursos.com/degree/certificate/fff7e849-dbe4-4ff3-96d6-5d152a7682b9?lang)
 
 ## 💻 Proyectos destacados
 - PRJ Almacen de Hardware: API/CRUD inventario, control de stock, validaciones y persistencia. [Repositorio](https://github.com/Mauricio-Millan/PRJ-Almacen-de-Hardware)
